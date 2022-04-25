@@ -1,2 +1,7 @@
-# Tow-Script
-this script is fully customizable, you can add any tow truck to the script by following the example in the script, this script also has a notification system so If you tow a car it will say "Car Has Been Loaded" etc. To tow a car it is /Tow.
+Do not re-sale or claim this as yours. 
+you may edit the script as you feel fit
+
+If you need help with the scrpit Go to "Raven Mods" on discord
+
+command is "/tow" in chat
+you can add basicly any flat bed tow truck and config the cars/trucks to sit perfectly on the trucks
